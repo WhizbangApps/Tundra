@@ -17,21 +17,12 @@ title: Tundra — Privacy Policy
   </div>
 
   <h2>Permissions</h2>
-
-  <div class="permission-list">
-    <div class="permission-item">
-      <div class="permission-icon">📡</div>
-      <div>
-        <strong>App Tracking Transparency</strong>
-        <p>Tundra asks once whether you allow it to track your activity across other companies’ apps and websites. This only affects the ads shown in the free version. You can say no, and you can change your choice at any time in Settings → Privacy &amp; Security → Tracking.</p>
-      </div>
-    </div>
-  </div>
+  <p>Tundra does not ask for any device permissions. It does not use your camera, microphone, photos, contacts, location or calendar, and it does not show Apple's tracking prompt, because it does not track you.</p>
 
   <h2>Third-Party Services</h2>
 
   <h3>Google AdMob (advertising)</h3>
-  <p>The free version shows a banner ad through Google AdMob. To serve and measure ads, AdMob may collect device information such as your approximate location (from your IP address), device model, and usage data. If you allow tracking, AdMob may also use your device’s advertising identifier to show more relevant ads; if you decline, ads are still shown but cannot use that identifier. Your episodes, notes and calm streak are never shared with AdMob. See <a href="https://policies.google.com/privacy">Google’s privacy policy</a> and <a href="https://support.google.com/admob/answer/6128543">how Google uses data from apps</a>.</p>
+  <p>The free version shows a banner ad through Google AdMob. Tundra only requests <strong>non-personalised</strong> ads and does not track you across other companies' apps and websites. To serve and measure ads, AdMob may still collect device information such as your approximate location (from your IP address), device model and usage data. If you are in the European Economic Area, the UK or Switzerland, Tundra asks for your consent through Google's consent form before any ad is requested, and you can change your choice at any time in Settings → Ad Privacy Choices. If you buy Remove Ads, the ads SDK is never started. Your episodes, notes and calm streak are never shared with AdMob. See <a href="https://policies.google.com/privacy">Google's privacy policy</a> and <a href="https://support.google.com/admob/answer/6128543">how Google uses data from apps</a>.</p>
 
   <h3>RevenueCat (purchases)</h3>
   <p>Remove Ads is processed by Apple; we never receive your payment details. To confirm and restore your purchase, Tundra uses <a href="https://www.revenuecat.com/privacy">RevenueCat</a>, which receives an anonymous, randomly generated app user ID, your purchase history for Tundra, and basic technical information such as device model, iOS version, app version, App Store country and IP address. This is used only to provide and restore your purchase.</p>
